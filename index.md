@@ -13,10 +13,11 @@ This application ("TelegramContent") is a personal tool that connects to the Str
 ## How data is used
 - Data is used exclusively to generate personal posts
 - Posts are sent to my personal Telegram account
-- Comments are added to my own Strava activities
+- Generated posts are added as comments to my own Strava activities
+- To generate these posts, activity data is sent to the Yandex Cloud (YandexGPT) API
 
 ## Data sharing
-- No data is shared with any third parties
+- Your Strava activity data is securely sent to the Yandex Cloud (YandexGPT) API solely for the purpose of generating a personal, AI-powered text post about the workout. No other third parties have access to the data, and it is not used for any other purpose.
 - No data is sold or transferred
 
 ## Data retention
